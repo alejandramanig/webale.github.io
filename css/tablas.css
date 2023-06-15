@@ -1,0 +1,39 @@
+*/DOCUMENTO CSS*/
+
+*{ margin: 0px
+    padding: 0px; }
+
+    .cabecera { text-align:center; 
+                min-height: 90px;
+                padding-top: 20 px ;
+                padding-bottom: 20px ; 
+                background-color: rgb(214, 130, 238);
+                margin-bottom: 20px;}
+        
+
+    h1 { width: 100%;
+        min-height: 1px; 
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: blueviolet;
+        color:whitesmoke; }
+
+    table {background-color: darkgreen; }
+
+    .tabla { margin: 20px auto 10px auto; }
+
+    .tabla tr:nth-child(odd) { background-color: blanchedalmond; }
+
+
+
+    .video { margin: 20px;
+            text-align : center; 
+            display:flex; } 
+
+    h2 {margin:20px 0px;
+        text-align:center;}
+
+
+    a:hover {color:burlywood}
+
+    .videos div {width: 50%; }
